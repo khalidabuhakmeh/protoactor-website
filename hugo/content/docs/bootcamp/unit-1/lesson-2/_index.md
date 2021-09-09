@@ -4,7 +4,7 @@ So, what are the main types of applications in which the actor model can be appl
 
 ### Transaction applications.
 
-First of all, these are applications that have transactions. For example. These can be financial or statistical applications, or it is bookmaking and online gaming. Also, it could be various social networks and media. For example, Twitter or FaceBook. Transaction applications also widely used in the telecom industry.
+First of all, these are applications that have transactions. For example. These can be financial or statistical applications, or it is bookmaking and online gaming. Also, it could be various social networks and media. For example, Twitter or Facebook. Transaction applications also widely used in the telecom industry.
 
 ### Package applications.
 
